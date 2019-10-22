@@ -1,0 +1,12 @@
+name: example
+title: example
+username:
+account: andy-price
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1364253
+bundleId: 2525383
+url: https://andy-price.shinyapps.io/example/
+when: 1571761058.61985
+asMultiple: FALSE
+asStatic: FALSE
